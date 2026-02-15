@@ -1,0 +1,33 @@
+{
+  "id": "com.espressif",
+  "version": "1.0.0",
+  "compatibility": ">=12.4.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "brandColor": "#E8362D",
+  "name": {
+    "en": "Espressif ZigBee"
+  },
+  "description": {
+    "en": "Use the ESP32C6 and ESP32H2 example projects in Homey"
+  },
+  "source": "https://github.com/smarthomesven/homey-espressif-zigbee",
+  "bugs": {
+    "url": "https://github.com/smarthomesven/homey-espressif-zigbee/issues"
+  },
+  "category": [
+    "appliances"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Sven Serlier",
+    "email": "sven@dypodex.com"
+  }
+}

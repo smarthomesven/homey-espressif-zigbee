@@ -1,0 +1,19 @@
+{
+  "name": { "en": "Zigbee Range Extender" },
+  "platforms": [ "local" ],
+  "class": "other",
+  "capabilities": [],
+  "zigbee": {
+    "manufacturerName": "Espressif",
+    "productId": ["ZigbeeRangeExtender"],
+    "endpoints": {},
+    "learnmode": {
+      "instruction": { "en": "Your ESP32 should automatically enter pairing mode upon powering it up. If it doesn't, you need to press and hold the BOOT button for approximately 3 seconds." }
+    }
+  },
+  "images": {
+    "small": "{{driverAssetsPath}}/images/small.png",
+    "large": "{{driverAssetsPath}}/images/large.png",
+    "xlarge": "{{driverAssetsPath}}/images/xlarge.png"
+  }
+}
